@@ -7,4 +7,6 @@ Proporciona una interfaz para crear familias de objetos relacionados o que depen
 
 Poniendo en práctica el patrón Abstract Factory
 
+## Preparación de comida
+
 ![image](https://user-images.githubusercontent.com/6163491/219974421-beab743b-e20f-4577-9a18-6e6c80ffb223.png)
