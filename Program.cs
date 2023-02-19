@@ -14,7 +14,7 @@
         static void RegistrarPlatoPrincipalOccidental(IFabricaDeComida fabricaDeComida)
         {
             IPlatoPrincipal platoPrincipal = fabricaDeComida.PrepararPlatoPrincipal("Arroz con Pollo", 10.00M);
-            Console.WriteLine($"Nombre de plato: {platoPrincipal}");
+            Console.WriteLine($"1.- {platoPrincipal}");
         }
     }
 }

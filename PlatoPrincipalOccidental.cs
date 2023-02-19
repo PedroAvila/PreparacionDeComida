@@ -16,6 +16,6 @@
             return Nombre;
         }
 
-        public override string ToString()=> $"{Nombre} Precio: S/ {10.00M}";
+        public override string ToString()=> $"Plato: {Nombre} Precio: S/ {10.00M}";
     }
 }
